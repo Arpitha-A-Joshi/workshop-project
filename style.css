@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+}
+div{
+	text-align: right;
+	font-family: inherit;
+}
+body{
+	background-color: rgb(250 250 225);
+}
+.Sign-Up{
+	background: #2d85b0;
+	width: 500px;
+	margin: 0px 0px 0px 430px;
+	color: white;
+	font-size: 18px;
+	padding: 20px;
+	border-radius: 10px;
+}
+#signup{
+	margin-left: 50px;
+}
+#name{
+	width: 300px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+	padding: 7px;
+}
+#sub{
+	text-align: center;
+	width: 200px;
+	padding: 7px;
+	font-size: 16px;
+	font-family: inherit;
+	font-weight: 600;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
